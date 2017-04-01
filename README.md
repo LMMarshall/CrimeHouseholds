@@ -9,4 +9,16 @@ This dataset initially looked very interesting. It records the number of violent
 
 The data took quite a bit of manipulation, since the same incidents were counted in several categories (once as a factor of gender, once as a factor of race, once as a factor of the total, etc). I had to make judgement calls on where those duplicates were, and while I think I made them accurately, there's the potential for error there. 
 
+Files in this Repo:
+
+data_cleaning_for_shiny_app -- An R file that imports the data from the original source and manipulates it into the final dataframe used.
+
+children_crime -- The dataframe itself
+
+Crime_households_shiny_app -- A folder containing the files necessary to run a Shiny app related to the data
+
+CrimeAppPresentation.Rpres -- An R Presentation file to accompany the Shiny app
+
+CrimeAppPresentation -- The markdown file for the above-referenced presentation
+
 
