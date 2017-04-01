@@ -1,0 +1,69 @@
+CrimeAppPresentation
+========================================================
+author: LMMarshall
+date: 4/1/2017
+autosize: true
+
+Violent Crime in Households with Children
+========================================================
+
+
+
+- An interactive plotting app 
+- Estimates violent crimes in U.S. households with children 2000-2012
+- Based on National Crime Victimization Survey data
+
+Usage
+========================================================
+
+
+The app lets you view the number of incidents of violent crime in households with children (with victims ages 12 and older) broken down by the gender and race of the head of the household. 
+
+Select the **severity of crime** and the **gender of the head of household** and hit the "plot" button to see the data.
+
+Caveats
+========================================================
+The app **doesn't show national totals**, since the data for several populations (Native American, mixed race, and Asian/Pacific Islander) is incomplete or of very low quality.
+
+**Incidence counts are not actual counts** but estimates based on sample populations. For some populations (e.g., black male heads of household), the data for many of the years is based on **10 or fewer sample cases**. Specifically, this problem affects
+
+```{r, echo=FALSE, message=FALSE}
+fileURL <- "https://www2.ed.gov/rschstat/statistics/surveys/mbk/Children-in-households-with-violent-crime_2014_0731_1400.csv"
+df <-read.csv(fileURL)
+df2 <- df[-c(1:117,274:377, 534:637),]
+df2$Year <- as.factor(df2$Year)
+df2$Sex<- as.factor(df2$Sex)
+levels(df2$Race.ethnicity)[1] <- "Native American"
+levels(df2$Race.ethnicity)[2] <- "Asian/Pacific Islander"
+levels(df2$Race.ethnicity)[3] <- "Black"
+levels(df2$Race.ethnicity)[4] <- "Hispanic"
+levels(df2$Race.ethnicity)[5] <- "Mixed-Race"
+levels(df2$Race.ethnicity)[6] <- "White"
+
+rownames(df2) <- 1:nrow(df2)
+
+df3 <- df2[,-c(1:2)]
+df4 <- df3[grepl("based on 10 or fewer", df3$Note.on.Count),]
+
+nrow(df4)
+```
+records out of a total of
+```{r, echo=FALSE}
+nrow(df3)
+```
+
+
+Interpretation
+========================================================
+
+
+The data **does not represent violent crimes against children** specifically. It represents violent crimes committed inside households where children live. The victims of these crimes mapped in this data were all aged 12 and older -- into adulthood. 
+
+**One use for this data is to get a general sense of how many U.S. children are being exposed to violence in the home** and couple that information with insights about any mental and physical health ramifications, ability to thrive, and success in school and/or society. 
+
+Give it a try
+========================================================
+
+Access the app at:
+https://lmmarshall.shinyapps.io/crime_households/
+

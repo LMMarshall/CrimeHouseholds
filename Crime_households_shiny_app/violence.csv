@@ -1,0 +1,157 @@
+"","Sex","Race.ethnicity","Type.of.violent.crime","Year","Count","Standard.Error.on.Count","Note.on.Count","sd"
+"1","Male","White","Serious violent crime","2000",553060,78395," Includes rape, sexual assault, robbery, and aggravated assault.",0.141747730806784
+"2","Male","White","Serious violent crime","2001",432390,61717.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.142735724692986
+"3","Male","White","Serious violent crime","2002",304630,55063.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.180756655615008
+"4","Male","White","Serious violent crime","2003",354200,58304," Includes rape, sexual assault, robbery, and aggravated assault.",0.164607566346697
+"5","Male","White","Serious violent crime","2004",356160,53561.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.150387185534591
+"6","Male","White","Serious violent crime","2005",305940,53748.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.175681833039158
+"7","Male","White","Serious violent crime","2006",422990,64439.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.152341899335682
+"8","Male","White","Serious violent crime","2007",338420,55714.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.164631227468826
+"9","Male","White","Serious violent crime","2008",204040,45674.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.223852675945893
+"10","Male","White","Serious violent crime","2009",245670,53361.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.217209671510563
+"11","Male","White","Serious violent crime","2010",210560,45098.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.214182655775076
+"12","Male","White","Serious violent crime","2011",222950,42825.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.192083875308365
+"13","Male","White","Serious violent crime","2012",221060,41480.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.187644983262463
+"14","Male","Black","Serious violent crime","2000",51710,16061.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.310603364919745
+"15","Male","Black","Serious violent crime","2001",80860,21006.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.259786049962899
+"16","Male","Black","Serious violent crime","2002",37030,13237.5,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.357480421280043
+"17","Male","Black","Serious violent crime","2003",32720,12513.7,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.38244804400978
+"18","Male","Black","Serious violent crime","2004",70840,19496.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.275217391304348
+"19","Male","Black","Serious violent crime","2005",56210,18278.9,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.32518946806618
+"20","Male","Black","Serious violent crime","2006",109220,26946.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.246713971800037
+"21","Male","Black","Serious violent crime","2007",14280,5546.3,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.388396358543417
+"22","Male","Black","Serious violent crime","2008",59180,21572,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.364515038864481
+"23","Male","Black","Serious violent crime","2009",84940,26605.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.313223451848364
+"24","Male","Black","Serious violent crime","2010",44970,15834.1,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.352103624638648
+"25","Male","Black","Serious violent crime","2011",42630,14513.8,"Interpret with caution. Estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50 percent. Includes rape, sexual assault, robbery, and aggravated assault.",0.340459770114942
+"26","Male","Black","Serious violent crime","2012",51020,17189.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.336924735397883
+"27","Male","Hispanic","Serious violent crime","2000",152510,32618.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.213877122811619
+"28","Male","Hispanic","Serious violent crime","2001",157730,31997," Includes rape, sexual assault, robbery, and aggravated assault.",0.202859316553604
+"29","Male","Hispanic","Serious violent crime","2002",91500,24124.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.263655737704918
+"30","Male","Hispanic","Serious violent crime","2003",94000,24291.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.258421276595745
+"31","Male","Hispanic","Serious violent crime","2004",92000,22848.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.248352173913043
+"32","Male","Hispanic","Serious violent crime","2005",162910,35664.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.21892333190105
+"33","Male","Hispanic","Serious violent crime","2006",117820,28258," Includes rape, sexual assault, robbery, and aggravated assault.",0.239840434561195
+"34","Male","Hispanic","Serious violent crime","2007",161750,32425.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.200468624420402
+"35","Male","Hispanic","Serious violent crime","2008",130930,34735," Includes rape, sexual assault, robbery, and aggravated assault.",0.265294432139311
+"36","Male","Hispanic","Serious violent crime","2009",109840,31401.7," Includes rape, sexual assault, robbery, and aggravated assault.",0.285885833940277
+"37","Male","Hispanic","Serious violent crime","2010",44630,15754.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.352993502128613
+"38","Male","Hispanic","Serious violent crime","2011",126840,29381," Includes rape, sexual assault, robbery, and aggravated assault.",0.231638284452854
+"39","Male","Hispanic","Serious violent crime","2012",107760,26738.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.248128247958426
+"40","Female","White","Serious violent crime","2000",393390,62005.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.157619410762856
+"41","Female","White","Serious violent crime","2001",441950,62619," Includes rape, sexual assault, robbery, and aggravated assault.",0.141687973752687
+"42","Female","White","Serious violent crime","2002",414750,68293.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.164661121157324
+"43","Female","White","Serious violent crime","2003",450300,68587.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.152314901176993
+"44","Female","White","Serious violent crime","2004",374550,55336.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.147741556534508
+"45","Female","White","Serious violent crime","2005",300490,53116.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.176766614529602
+"46","Female","White","Serious violent crime","2006",543360,76071," Includes rape, sexual assault, robbery, and aggravated assault.",0.140001104240283
+"47","Female","White","Serious violent crime","2007",470540,70926.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.150734900327284
+"48","Female","White","Serious violent crime","2008",377300,67340," Includes rape, sexual assault, robbery, and aggravated assault.",0.17847866419295
+"49","Female","White","Serious violent crime","2009",278610,58051.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.208362226768601
+"50","Female","White","Serious violent crime","2010",436350,75022.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.17193193537298
+"51","Female","White","Serious violent crime","2011",295510,51828," Includes rape, sexual assault, robbery, and aggravated assault.",0.175384927752022
+"52","Female","White","Serious violent crime","2012",358950,56231.8," Includes rape, sexual assault, robbery, and aggravated assault.",0.156656358824349
+"53","Female","Black","Serious violent crime","2000",315840,53353.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.168926038500507
+"54","Female","Black","Serious violent crime","2001",224030,40102.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.179004151229746
+"55","Female","Black","Serious violent crime","2002",321820,57209.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.177769871356659
+"56","Female","Black","Serious violent crime","2003",152330,33243.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.218233440556686
+"57","Female","Black","Serious violent crime","2004",179390,34570.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.192713640671163
+"58","Female","Black","Serious violent crime","2005",271540,49697," Includes rape, sexual assault, robbery, and aggravated assault.",0.183019076379171
+"59","Female","Black","Serious violent crime","2006",286230,49877.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.174256716626489
+"60","Female","Black","Serious violent crime","2007",212610,39623.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.186367527397582
+"61","Female","Black","Serious violent crime","2008",266840,54042.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.202527731974217
+"62","Female","Black","Serious violent crime","2009",160960,40310.1," Includes rape, sexual assault, robbery, and aggravated assault.",0.250435511928429
+"63","Female","Black","Serious violent crime","2010",145770,34989.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.240030870549496
+"64","Female","Black","Serious violent crime","2011",173160,36139.3," Includes rape, sexual assault, robbery, and aggravated assault.",0.208704666204666
+"65","Female","Black","Serious violent crime","2012",199400,38913.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.195151454363089
+"66","Female","Hispanic","Serious violent crime","2000",163160,34125.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.209152978671243
+"67","Female","Hispanic","Serious violent crime","2001",155630,31723.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.203837306431922
+"68","Female","Hispanic","Serious violent crime","2002",131050,30780.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.234873712323541
+"69","Female","Hispanic","Serious violent crime","2003",168850,35572.6," Includes rape, sexual assault, robbery, and aggravated assault.",0.210675747705064
+"70","Female","Hispanic","Serious violent crime","2004",93800,23119.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.246480810234542
+"71","Female","Hispanic","Serious violent crime","2005",148250,33570.9," Includes rape, sexual assault, robbery, and aggravated assault.",0.226447892074199
+"72","Female","Hispanic","Serious violent crime","2006",201520,39745," Includes rape, sexual assault, robbery, and aggravated assault.",0.197226081778484
+"73","Female","Hispanic","Serious violent crime","2007",154070,31290.4," Includes rape, sexual assault, robbery, and aggravated assault.",0.203092100993055
+"74","Female","Hispanic","Serious violent crime","2008",162830,39711.5," Includes rape, sexual assault, robbery, and aggravated assault.",0.243883191058159
+"75","Female","Hispanic","Serious violent crime","2009",149200,38347.7," Includes rape, sexual assault, robbery, and aggravated assault.",0.257022117962466
+"76","Female","Hispanic","Serious violent crime","2010",179110,40322.7," Includes rape, sexual assault, robbery, and aggravated assault.",0.225128133549216
+"77","Female","Hispanic","Serious violent crime","2011",136890,30903.2," Includes rape, sexual assault, robbery, and aggravated assault.",0.225752063700782
+"78","Female","Hispanic","Serious violent crime","2012",180330,36573," Includes rape, sexual assault, robbery, and aggravated assault.",0.202811512227583
+"79","Male","White","Simple assault","2000",1405860,149831.7," ",0.10657654389484
+"80","Male","White","Simple assault","2001",1033050,110645.2," ",0.107105367600794
+"81","Male","White","Simple assault","2002",901350,117814," ",0.130708381871637
+"82","Male","White","Simple assault","2003",888420,109130.8," ",0.122836946489273
+"83","Male","White","Simple assault","2004",966660,103254.9," ",0.10681615045621
+"84","Male","White","Simple assault","2005",584450,82663.7," ",0.141438446402601
+"85","Male","White","Simple assault","2006",769270,95962.8," ",0.124745277990822
+"86","Male","White","Simple assault","2007",639910,88811," ",0.138786704380303
+"87","Male","White","Simple assault","2008",622680,93047.6," ",0.149430847305197
+"88","Male","White","Simple assault","2009",419120,76474.7," ",0.182464926512693
+"89","Male","White","Simple assault","2010",355940,65030.6," ",0.182701017025341
+"90","Male","White","Simple assault","2011",485620,72803.1," ",0.149917836991887
+"91","Male","White","Simple assault","2012",602380,78335.2," ",0.130042830107241
+"92","Male","Black","Simple assault","2000",115840,27164.1," ",0.23449671961326
+"93","Male","Black","Simple assault","2001",97410,23590.7," ",0.242179447695308
+"94","Male","Black","Simple assault","2002",95980,24914.5," ",0.259580120858512
+"95","Male","Black","Simple assault","2003",124030,29065," ",0.23433846650004
+"96","Male","Black","Simple assault","2004",88170,22262.9," ",0.252499716456845
+"97","Male","Black","Simple assault","2005",98350,25872.2," ",0.263062531774276
+"98","Male","Black","Simple assault","2006",210600,40888.3," ",0.194151471984805
+"99","Male","Black","Simple assault","2007",79370,19250.5," ",0.242541262441729
+"100","Male","Black","Simple assault","2008",46360,18700.3," ",0.403371440897325
+"101","Male","Black","Simple assault","2009",99040,29368.3," ",0.296529684975767
+"102","Male","Black","Simple assault","2010",98730,26813.3," ",0.271582092575712
+"103","Male","Black","Simple assault","2011",65340,19055.1," ",0.291629935720845
+"104","Male","Black","Simple assault","2012",100660,25666.4," ",0.254981124577787
+"105","Male","Hispanic","Simple assault","2000",198250,38897.6," ",0.196204791929382
+"106","Male","Hispanic","Simple assault","2001",212520,38757," ",0.182368718238283
+"107","Male","Hispanic","Simple assault","2002",231590,45523.3," ",0.196568504685004
+"108","Male","Hispanic","Simple assault","2003",265790,48075," ",0.180875879453704
+"109","Male","Hispanic","Simple assault","2004",130650,28355.4," ",0.217033295063146
+"110","Male","Hispanic","Simple assault","2005",196940,40310.6," ",0.204684675535696
+"111","Male","Hispanic","Simple assault","2006",173770,36146.4," ",0.208012890602521
+"112","Male","Hispanic","Simple assault","2007",157890,31856.6," ",0.201764519602255
+"113","Male","Hispanic","Simple assault","2008",134090,35245.3," ",0.262848087105675
+"114","Male","Hispanic","Simple assault","2009",113180,32019.4," ",0.282906874006008
+"115","Male","Hispanic","Simple assault","2010",169980,38891.7," ",0.228801623720438
+"116","Male","Hispanic","Simple assault","2011",127030,29410.4," ",0.231523262221522
+"117","Male","Hispanic","Simple assault","2012",180370,36577.9," ",0.202793701835117
+"118","Female","White","Simple assault","2000",1088820,125410.7," ",0.115180378758656
+"119","Female","White","Simple assault","2001",1039180,111089," ",0.106900633191555
+"120","Female","White","Simple assault","2002",1092530,134918.9," ",0.123492169551408
+"121","Female","White","Simple assault","2003",1033820,121126.3," ",0.117163819620437
+"122","Female","White","Simple assault","2004",933310,100868.8," ",0.108076416196119
+"123","Female","White","Simple assault","2005",997570,118599.5," ",0.118888398809106
+"124","Female","White","Simple assault","2006",1041910,117703.8," ",0.112969258381242
+"125","Female","White","Simple assault","2007",877300,111807.1," ",0.127444545765417
+"126","Female","White","Simple assault","2008",971160,124518.7," ",0.12821646278677
+"127","Female","White","Simple assault","2009",956250,134546," ",0.140701699346405
+"128","Female","White","Simple assault","2010",662580,100696.2," ",0.151975912342661
+"129","Female","White","Simple assault","2011",757750,99004.7," ",0.130656153084791
+"130","Female","White","Simple assault","2012",804940,94565.9," ",0.117481924118568
+"131","Female","Black","Simple assault","2000",426640,65559," ",0.153663510219389
+"132","Female","Black","Simple assault","2001",348400,53512.3," ",0.153594431687715
+"133","Female","Black","Simple assault","2002",303380,54906.2," ",0.180981607225262
+"134","Female","Black","Simple assault","2003",309240,53212.2," ",0.172074117190532
+"135","Female","Black","Simple assault","2004",270660,44887.3," ",0.165843863149339
+"136","Female","Black","Simple assault","2005",167780,36348," ",0.216640839194183
+"137","Female","Black","Simple assault","2006",361910,58149.4," ",0.160673648144566
+"138","Female","Black","Simple assault","2007",300770,51099.9," ",0.169896931209895
+"139","Female","Black","Simple assault","2008",268620,54270.6," ",0.202034844762117
+"140","Female","Black","Simple assault","2009",274810,57520," ",0.209308249335905
+"141","Female","Black","Simple assault","2010",309950,59029.8," ",0.190449427326988
+"142","Female","Black","Simple assault","2011",194650,39087.5," ",0.200809144618546
+"143","Female","Black","Simple assault","2012",342450,54579.9," ",0.159380639509417
+"144","Female","Hispanic","Simple assault","2000",291850,50555.6," ",0.173224601678945
+"145","Female","Hispanic","Simple assault","2001",255980,43730.7," ",0.17083639346824
+"146","Female","Hispanic","Simple assault","2002",152350,34118.2," ",0.223946176567115
+"147","Female","Hispanic","Simple assault","2003",224630,42971.7," ",0.191299915416463
+"148","Female","Hispanic","Simple assault","2004",212440,38468.6," ",0.181079834306157
+"149","Female","Hispanic","Simple assault","2005",221910,43559.2," ",0.196292190527691
+"150","Female","Hispanic","Simple assault","2006",291060,50424.1," ",0.17324297395726
+"151","Female","Hispanic","Simple assault","2007",269160,47104.7," ",0.175006315945906
+"152","Female","Hispanic","Simple assault","2008",188450,43470.8," ",0.230675510745556
+"153","Female","Hispanic","Simple assault","2009",222990,50022.3," ",0.224325306067537
+"154","Female","Hispanic","Simple assault","2010",160660,37409.9," ",0.232851363127101
+"155","Female","Hispanic","Simple assault","2011",349830,58142.7," ",0.166202727038847
+"156","Female","Hispanic","Simple assault","2012",349920,55331," ",0.158124714220393
