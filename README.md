@@ -21,4 +21,4 @@ CrimeAppPresentation.Rpres -- An R Presentation file to accompany the Shiny app
 
 CrimeAppPresentation -- The markdown file for the above-referenced presentation
 
-
+View the Shiny App directly here: https://lmmarshall.shinyapps.io/crime_households/
